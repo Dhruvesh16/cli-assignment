@@ -1,0 +1,10 @@
+2025-01-12 10:15:22 INFO System started
+2025-01-12 10:16:01 ERROR Disk not found
+2025-01-12 10:16:45 WARNING High memory usage
+2025-01-12 10:17:10 ERROR Network timeout
+2025-01-12 10:18:30 INFO User logged in
+2025-01-12 10:19:15 WARNING CPU temperature high
+2025-01-12 10:20:00 INFO Database connection established
+2025-01-12 10:21:45 ERROR Authentication failed
+2025-01-12 10:22:30 INFO Backup completed
+2025-01-12 10:23:00 WARNING Disk space low

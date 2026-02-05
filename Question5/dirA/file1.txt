@@ -1,0 +1,2 @@
+This is a sample file in directory A.
+It has some content for testing.

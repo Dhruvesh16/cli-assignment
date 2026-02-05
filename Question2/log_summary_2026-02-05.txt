@@ -1,0 +1,15 @@
+Log Analysis Report
+===================
+Generated on: 2026-02-05 21:57:11
+Log file analyzed: sample.log
+
+Summary Statistics:
+-------------------
+Total log entries: 10
+INFO messages: 4
+WARNING messages: 3
+ERROR messages: 3
+
+Most Recent ERROR:
+------------------
+2025-01-12 10:21:45 ERROR Authentication failed

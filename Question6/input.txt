@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Shell scripting is a powerful tool for system administration.
+Learning bash commands helps automate repetitive tasks efficiently.
+A computer program is a set of instructions that performs specific tasks.
+The quick brown fox appears again to test word frequency.

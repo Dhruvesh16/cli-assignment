@@ -1,0 +1,2 @@
+This file exists in both directories.
+But the content is different in dirB.

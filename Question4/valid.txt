@@ -1,0 +1,12 @@
+alice123@company.com
+bob@test.com
+charlie@website.com
+frank99@site.com
+henry@place.com
+jack@area.com
+kate123@home.com
+leo@zone.com
+mary@space.com
+nancy@home.com
+oliver@region.com
+peter123@section.com

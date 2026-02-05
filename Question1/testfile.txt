@@ -1,0 +1,5 @@
+This is a sample text file for testing.
+It contains multiple lines.
+Each line has some words and characters.
+We use this to test the analyze.sh script.
+Shell scripting is powerful and useful.

@@ -1,0 +1,10 @@
+101, Alice Johnson, 45, 56, 67
+102, Bob Smith, 30, 55, 60
+103, Charlie Brown, 78, 82, 90
+104, David Wilson, 20, 25, 30
+105, Emma Davis, 50, 32, 70
+106, Frank Miller, 88, 91, 85
+107, Grace Lee, 40, 60, 28
+108, Henry Clark, 65, 70, 75
+109, Ivy Martinez, 33, 33, 33
+110, Jack Taylor, 90, 95, 88

@@ -1,0 +1,7 @@
+The quick brown fox jumps over a lazy dog.
+I am learning shell scripting today.
+A computer is a powerful machine.
+Programming requires practice and patience.
+Words like I, a, o, and u are interesting.
+Try this text for pattern matching.
+Sky fly by my dry cry.
